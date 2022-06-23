@@ -12,7 +12,7 @@ First of all, you must download this package using npm.
 
 ```npm i megamind-logger```
 
-Next, install all required depencencies (only chalk is required for now):
+Next, install all required depencencies (should work without it but whatever):
 
 ```npm i chalk@4.1.2```
 
